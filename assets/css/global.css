@@ -1,0 +1,23 @@
+body{
+    font-size : 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.user_message{
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #0087CD;
+    background-repeat: no-repeat;
+    width: 520px;
+    height: 350px;
+}
+.title_image{
+    width: 350px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.errorpanel {
+    color: red;
+    font-weight: bold;
+}
