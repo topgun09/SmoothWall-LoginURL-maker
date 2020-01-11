@@ -45,10 +45,10 @@ $url = "data:text/html;base64,".$base64out;
                         </p>
                                 
                         <p>  
-                            <input readonly style="text-align: center; font-weight:bold;" value="<?= $url ?>">
+                            <textarea style="max-width: 100%" rows="9" cols="50" readonly><?= $url ?></textarea>
                         </p>
                         
-                        <div style="text-align:center;margin-right:auto;margin-left:auto;padding-top:150px;">
+                        <div style="text-align:center;margin-right:auto;margin-left:auto;padding-top:50px;">
                             <button onclick="document.location='../bookmark/';">Back</button>
                         </div>
                             
