@@ -30,7 +30,7 @@ $url = "data:text/html;base64,".$base64out;
     <body>
             <div class="user_message" style="background-image: url('assets/images/side.jpg');">
                 <div class="title_image">
-                    <img src="assets/images/logo.gif">
+                    <img style='max-width:250px' src="assets/images/logo.gif">
                 </div>
 
                 <div>
